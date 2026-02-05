@@ -1,4 +1,3 @@
-
 ---
 subtitle: "PHIL101B -- Introduction to Philosophy"
 title: "<font style='font-size:1em;'>🗓️ Week 05<br/> Verificationism, Probability, and Meaning</font>"
