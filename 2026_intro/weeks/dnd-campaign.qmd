@@ -11,10 +11,48 @@ format:
 
 ### Overall Course Setup
 
+
 - **Group Structure**: By the second week, students form small groups of **5 members** each.
 - **Rotating Dungeon Master (DM) Role**: Every group member gets **one turn** to act as the Dungeon Master (DM) for a full session/day.
   - This distributes workload fairly—no one is stuck doing all the prep.
   - The DM takes ownership of that day's reading/topic, transforming it into a D&D-style adventure.
+The D&D assignment is not exactly like D&D though Ive tried to keep it as close as possible. The idea is to encourage students to talk through the philosophical issues we read about.
+
+Ideally you begin by imagining being in a unique situation that makes you question some belief that you’ve always taken for granted.
+
+Each day that we do the activity, each group will have a new DM for that day. The DM rolls the dice to set the difficulty class. They then read the encounter.
+
+* There are billions of people (non sims) in the actual universe.
+* Therefore there will be billions of *sim* people in the sim universe.
+* Such a program, the *simUniverse*, will likely be very successful and there will be  many, many *simUniverses* sold.
+
+Therefore there will be many more sims than non sims.
+
+### Encounter
+
+The DM then reads an imagined context that motivates each of the reasons above in a turn based format.
+
+Going around the table, the DM has each member of their group roll a d20 to determine what position on one of the reasons above, they are going to take. Do they defend the reason given, or do they critique it?
+
+First, as a class we take three polls, one for each  reason. Is there more who agree with the reason above, or disagree with it?
+
+Next,
+
+* The DM rolls a dice and gets 10.
+
+Winning roll:
+
+* If the other student rolls higher, they get to defend the intuitive position.
+* This is whichever position there is most agreement for.
+
+Losing roll:
+
+* If the other student rolls lower than the DM, then they will have to defend the least likely answer.
+* The position with the least agreement for.
+
+The students gives their position which is recorded onto everyone’s tally sheets. At the end of the campaign for that day, each sheet should have a set of positions for each of the reasons above, either defending it, or objecting to it, one from each member of the  group.
+
+Everyone should have their own copy of the tally sheet. You will upload a photo of it to Canvas under the assignment module. You keep the tally sheet for the entire semester.
 
 ### Session Format (When a Student is DM)
 
