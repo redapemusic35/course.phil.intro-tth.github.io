@@ -44,6 +44,125 @@ In the west, our concepts of God typically involve 4 distinct properties. Simila
 
 :::
 
+# Summary of Chapter 5
+
+## Simulation Argument
+
+1. Simulation technology is likely to be so ubiquitous that most beings in the universe (or most beings with experiences like ours) are sims.
+2. Therefore, we are probably sims.
+
+## Three Objections:
+
+* It will never happen
+* We're special, have special features that cannot be simulated
+* We live in a distinctive world
+
+## The Argument
+
+1. At least one in ten nonsim populations will each create a thousand sim populations.
+   1. It will never happen objections
+2. If at least one in ten nonsim populations will each create a thousand sim populations, then at least 99 percent of intelligent beings are sims.
+3. If at least 99 percent of intelligent beings are sims, we are probably sims.
+   1. are we special?
+4. Therefore, we are probably sims.
+
+## Premise 1 Objections
+
+* Intelligent sims are impossible
+* Sims take too much computing power
+* Nonsims will die out before creating sims
+* Nonsims will choose not to create sims
+* More nonsims than sims will be created
+
+## Premise 3, Are we special?
+
+> Let’s say that a sim sign is a feature that raises the probability that a creature is a sim. More precisely, it is a feature that a sim is more likely to have than a nonsim.
+
+Sim Signs: feature sims are more likely to have than nonsims
+
+* Sims can't be conscious
+* Simulators will avoid creating conscious sims
+* Sims won't have minds like ours
+* Sims won't experience large universes
+
+---
+
+> Stepping back: The potential nonsim signs we’ve considered, such as consciousness and a large world, may decrease the probability that we’re in a simulation. At the same time, we need to weigh these against potential sim signs, such as the fact that we seem to be early in the universe, which may increase the probability that we’re in a simulation.
+
+# Bostrom's Argument
+
+1. If there are no sim blockers, most humanlike beings are sims.
+2. If most humanlike beings are sims, we are probably sims.
+3. So: If there are no sim blockers, we are probably sims.
+
+## Premise 1
+
+Only on the assumption that there are no sim blockers, then *most* humanlike beings are sims.
+
+* Does anything *prevent* the creation of many humanlike sims?
+
+## Premise 2, the Indifference Principle
+
+1. If there are many beings with the same sort of experience as me, then I am equally likely to be any of those beings.
+2. Therefore if 90 percent of beings with experiences like mine are sims, then I should be 90 percent confident that we are sims.
+3. Simblockers: However, if conscious sims are impossible, then humanlike sims are impossible.
+4. and if simulations with apparently large universes are rare, then humanlike sims are rare.
+5. Therefore, either there are sim blockers or we are sims.
+
+# Chapter 6: Reality
+
+Consider simblockers
+
+* Sims can't be conscious
+* Simulators will avoid creating conscious sims
+* Sims won't have minds like ours
+* Sims won't experience large universes
+
+## What is Real?
+
+Chalmer's View:
+
+* Virtual Realism: virtual reality is genuine reality, . . . virtual objects are real and not an illusion.
+* Simulation Realism: objects in simulation around us are real and not illusion.
+* Virtual digitilism: objects in virtual reality are digital objects, structures of binary information.
+
+## Defining Real
+
+* Reality: Everything that exists
+* Reality: World or Worlds
+* Reality: a Property
+
+---
+
+### Reality+
+
+* Reality contains many realities
+* Each of these realities are real
+
+> Or more mundanely: the cosmos (everything that exists) contains many worlds (physical and virtual spaces), and the objects in those worlds are real.
+
+# The Really Real
+
+* Reality as existence
+* Reality as causal power
+* Reality as mind independence
+* Reality as non-illusoriness
+* Reality as genuineness
+
+
+# Ch 7, Feb 7: Is God a Hacker in the next Universe Up?
+
+## Is God a Hacker?
+
+---
+
+### What is God?
+
+* Creator
+* All Powerful
+* All Knowing
+* All Good
+
 ---
 
 ### What about the Hacker?
@@ -78,8 +197,6 @@ It is important to point out here, that we might think there is a very big diffe
 ---
 
 ### Ontological Argument
-
-Introduction to Philosophy by Philip A. Pecorino is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.  [here](https://www.qcc.cuny.edu/socialSciences/ppecorino/INTRO_TEXT/Chapter%203%20Religion/Ontological.htm)
 
 ::: {.notes}
 
@@ -386,6 +503,8 @@ Aquinas, 1225 - 1274, once declared the official philosopher of the Catholic Chu
 
 ---
 
+::: {.r-fit-text}
+
 ### Other Philosophers and their Critiques:
 
 (a) [René Descartes, from The Philosophy of Descartes in Extracts from His Writings. H. A. P. Torrey. New York, 1892. P. 161 et seq.](https://www.qcc.cuny.edu/socialSciences/ppecorino/INTRO_TEXT/Chapter%203%20Religion/Ontological.htm#DESCARTES)
@@ -406,6 +525,8 @@ Aquinas, 1225 - 1274, once declared the official philosopher of the Catholic Chu
 
 (i) [Robert Flint, from Theism. New York, 1893. Seventh edition. P. 278 et seq.](https://www.qcc.cuny.edu/socialSciences/ppecorino/INTRO_TEXT/Chapter%203%20Religion/Ontological.htm#ROBERT%20FLINT)
 
+:::
+
 ---
 
 View also [Debunking the Teleological](http://www.youtube.com/watch?v=iRulK_ePLKM), [Cosmological](http://www.youtube.com/watch?v=iRulK_ePLKM), and [Ontological Arguments for the Existence of God](http://www.youtube.com/watch?v=iRulK_ePLKM)
@@ -416,16 +537,19 @@ View also [Debunking the Teleological](http://www.youtube.com/watch?v=iRulK_ePLK
 
 ### Concluding Summary:
 
+::: {.r-fit-text}
+
 1. What it does prove:
   (a) Anselm proves that if you think of the GCB you must THINK that it exists.
   (b) Descartes proves that if you conceive of an ALL PERFECT being you must CONCEIVE (THINK) of that being as existing.
-
 
 2. Kant points out that even though you must THINK that it exists does not mean that it does exist. Existence is not something we can know from the mere idea itself. It is not known as a predicate of a subject. Independent confirmation through experience is needed.
 
 3. The argument does give some support to those who are already believers. It has variations that establish the possibility of the existence of such a being.
 
 4. The argument will not convert the non-believer into a believer.
+
+:::
 
 ---
 
@@ -434,6 +558,8 @@ View also [Debunking the Teleological](http://www.youtube.com/watch?v=iRulK_ePLK
 This argument or proof does not establish the actual existence of a supernatural deity. It attempts to define a being into existence and that is not rationally legitimate. While the argument can not be used to convert a non-believer to a believer, the faults in the argument do not prove that there is no god. The Burden of Proof demands that the positive claim that there is a supernatural deity be established by reason and evidence and this argument does not meet that standard. The believer in god can use the argument to establish the mere logical possibility that there is a supernatural deity or at least that it is not irrational to believe in the possibility that there is such a being. The argument does not establish any degree of probability at all.
 
 ---
+
+::: {.r-fit-text}
 
 OUTCOME:
 
@@ -446,7 +572,11 @@ Premises
 * So, gcb1 would not be the GCB but gcb2 would be.
 * Thus to think of the GCB is to think of the gcb2, i.e. a being that exists in reality and not just in the mind.
 
+:::
+
 ---
+
+::: {.r-fit-text}
 
 ### Conclusion: The GCB ( Deity) exists
 
@@ -461,6 +591,8 @@ Problem with argument:
 4. __X__Premises are inadequate to support the conclusion
 
 5. ____Alternative arguments exist with equal or greater support
+
+:::
 
 ---
 
