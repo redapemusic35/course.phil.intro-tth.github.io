@@ -100,66 +100,66 @@ website:
                text: 💻 Notes and Summary
             #  - href: 2023/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix href: 2026_intro/weeks/week08/page.qmd
-         - href: 2026_intro/weeks/week02/page.qmd
+         - href: 2026_intro/weeks/week10/page.qmd
            text: Week 10
            contents:
-             - href: 2026_intro/weeks/week02/page.qmd
+             - href: 2026_intro/weeks/week10/page.qmd
                text: 👨‍🏫 Lecture Material
             #  - href: 2026_intro/weeks/week02/summary.qmd
             #    text: 💻 Notes and Summary
             #  - href: 2023/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix
-         - href: 2026_intro/weeks/week03/page.qmd
+         - href: 2026_intro/weeks/week11/page.qmd
            text: Week 11
            contents:
-             - href: 2026_intro/weeks/week03/page.qmd
+             - href: 2026_intro/weeks/week11/page.qmd
                text: 👨‍🏫 Lecture Material
             #  - href: 2026_intro/weeks/week03/summary.qmd
             #    text: 💻 Notes and Summary
             #  - href: 2023/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix
-         - href: 2026_intro/weeks/week04/page.qmd
+         - href: 2026_intro/weeks/week12/page.qmd
            text: Week 12
            contents:
-             - href: 2026_intro/weeks/week04/page.qmd
+             - href: 2026_intro/weeks/week12/page.qmd
                text: 👨‍🏫 Lecture Material
             #  - href: 2026_intro/weeks/week04/summary.qmd
             #    text: 💻 Notes and Summary
             #  - href: 2023/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix
-         - href: 2026_intro/weeks/week05/page.qmd
+         - href: 2026_intro/weeks/week13/page.qmd
            text: Week 13
            contents:
-             - href: 2026_intro/weeks/week05/page.qmd
+             - href: 2026_intro/weeks/week13/page.qmd
                text: 👨‍🏫 Lecture Material
              - href: 2026_intro/weeks/week05/summary.qmd
                text: 💻 Notes and Summary
             #  - href: 2023/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix
-         - href: 2026_intro/weeks/week06/page.qmd
+         - href: 2026_intro/weeks/week14/page.qmd
            text: Week 14
            contents:
-             - href: 2026_intro/weeks/week06/page.qmd
+             - href: 2026_intro/weeks/week14/page.qmd
                text: 👨‍🏫 Lecture Material
              - href: 2026_intro/weeks/week06/summary.qmd
                text: 💻 Notes and Summary
             #  - href: 2023/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix
-         - href: 2026_intro/weeks/week07/page.qmd
+         - href: 2026_intro/weeks/week15/page.qmd
            text: Week 15
            contents:
-             - href: 2026_intro/weeks/week07/page.qmd
+             - href: 2026_intro/weeks/week15/page.qmd
                text: 👨‍🏫 Lecture Material
-             - href: 2026_intro/weeks/week07/summary.qmd
+             - href: 2026_intro/weeks/week15/summary.qmd
                text: 💻 Notes and Summary
             #  - href: 2023/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix
-         - href: 2026_intro/weeks/week08/page.qmd
+         - href: 2026_intro/weeks/week16/page.qmd
            text: Week 16
            contents:
-             - href: 2026_intro/weeks/week08/page.qmd
+             - href: 2026_intro/weeks/week16/page.qmd
                text: 👨‍🏫 Lecture Material
-             - href: 2026_intro/weeks/week08/summary.qmd
+             - href: 2026_intro/weeks/week16/summary.qmd
                text: 💻 Notes and Summary
             #  - href: 2023/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix
@@ -170,7 +170,7 @@ website:
     background: light
     left: "Copyright 2025, Montaque Reynolds"
 
-bibliography: ./My-Library.bib
+bibliography: ./My Library.bib
 csl: references/chicago-author-date.csl
 
 format:
