@@ -37,7 +37,9 @@ format:
 
 Lets imagine a complete broad historical analysis of the development of knowledge in the West.
 
-But such development first begins with a number of assumptions, for instance that my inner life shares a causal relationship to the outside world.
+This development first begins with a number of assumptions, for instance that my inner life shares a relationship to the physical world.
+
+That my experiences can be explained by my observations.
 
 :::
 
@@ -248,6 +250,38 @@ According to ***Strong dualism***
 * but mental properties are not physical
 * can vary independently
 * minds to not take up any space.
+
+:::
+
+## Logical Behaviorism $\Rightarrow$ Physicalism
+
+Forms of physicalism
+
+* Supervenience
+* Emergence
+* Intelligibility
+
+::: {.notes}
+
+What the above says is that if logical behaviorism is true, then physicalism is true.
+
+Recall that according to @bott03, logical behaviorism is the view that an observation of our internal experiences:
+
+* feelings, emotions, beliefs, and thoughts,
+* should not lead to a discussion about whether these experiences, the causes of the mental states, are grounded in physical reality or not.
+* Rather it is a talk about a disposition to behavior.
+
+However, logical behaviorism was only offered as an account of *conceptual analysis*.
+
+What logical behaviorism says is that "mental events or states should actually be construed as 'iffy' or conditional statements about people's actual and possible behavior".
+
+Logical behaviorism is an important part of understanding our experiences and more importantly, the divergent nature of our subjective and objective experiences. It gives us a way to account for the difference between our experiences and observations where we experience the world subjectively, but our observations do not seem to support those experiences.
+
+A challenge in building a physicalist theory, is developing theories corresponding with the physical.
+
+* What does it mean to be physical?
+  * Chalmers gives an account of the physical that includes small constituent components of matter and accompanying facts about how those constituent components of matter are arranged.
+  * What ever theory we come up with, needs to explain the difference between our experiences and our observations however.
 
 :::
 
