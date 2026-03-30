@@ -20,6 +20,7 @@ format:
       zoom
     fig-responsive: true
     slide-number: true
+    showNotes: 'separate-page'
     incremental: true
     mouse-wheel: false
     auto-play-media: true
