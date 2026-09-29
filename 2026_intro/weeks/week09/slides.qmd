@@ -208,6 +208,8 @@ Descartes's response is often called a form of foundationalism grounded in what 
 
 > All true alchemists know that the alchemical symbol is a mirage as the theater is a mirage. And this perpetual allusion to the materials and the principle of the theater found in almost all alchemical books should be understood as the expression of an identity (of which alchemists are extremely aware) existing between the world in which the characters, objects, images, and in a general way all that constitutes the virtual reality of the theater develops, and the purely fictitious and illusory world in which the symbols of alchemy are evolved.
 
+---
+
 Dave Chalmers: A virtual reality environment is an immersive, interactive, and computer-generated space.
 
 - Interactive: means that there’s two-way interaction between users and the environment, and among objects in the environment.
@@ -220,6 +222,8 @@ Dave Chalmers: A virtual reality environment is an immersive, interactive, and c
   - audiovisual immersion: the environments look and sound as if you’re immersed in them.
   - bodily immersion: the environments look and sound as if you’re immersed in them.
   - full immersion: "A fully immersive or full-dive VR is one that users apprehend with all their senses, as if they’re physically inhabiting the environment, and where no trace of the ordinary physical environment remains."
+
+---
 
 Susanne Langer: Virtual worlds
 - objects
